@@ -120,3 +120,5 @@ the raw molecular dynamics simulation trajectory data are stored in Mendeley Dat
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_WT_Charmm36_trajectory.tar, and 1UBQ_WT_Amber_trajectory.tar are used for the Different force fields section.
 
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
+
+amber-cpptraj is required to process the trajectory xtc files to get the dist.dat and corr.dat for the SPM graph generations. The exact commands of cpptraj are stored in [cpptraj_files](./cpptraj_files/).
