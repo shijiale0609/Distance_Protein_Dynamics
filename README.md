@@ -20,7 +20,7 @@ Notes:
 
 ## 2) Generate SPM outputs (PML + TSV)
 
-`spm.py` builds an SPM graph from a distance matrix and correlation matrix, and writes a PyMOL script plus edge/node tables.
+`spm.py` builds an SPM graph from a distance matrix and correlation matrix, and writes a PyMOL script plus edge/node tables. `spm.py` is built upon https://github.com/Deucalion666/Shortest-Path-Map-Tool.
 
 ```bash
 python spm.py \
