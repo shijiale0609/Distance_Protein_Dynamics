@@ -1,6 +1,12 @@
 # Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations
 ## Workflow (Alignment -> SPM Graph -> Distances)
 
+This repository supports the following manuscript.
+
+Jiale Shi, Zhongyi Wan, Renjie Zhu,Qiang Cui, "Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations," Submitted to JCTC for peer-review, 2026.
+
+
+
 This file describes the typical workflow for aligning structures, generating SPM graph files, and computing distances between cases.
 
 ## 1) Align the target structure to a reference
