@@ -153,3 +153,18 @@ Shi, Jiale (2026), “Data3 for Measuring Differences in Protein Allosteric Grap
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
 
 amber-cpptraj is required to process the trajectory xtc files to get the dist.dat and corr.dat for the SPM graph generations. The exact commands of cpptraj are stored in [cpptraj_files](./cpptraj_files/).
+
+
+## Contact
+
+Jiale Shi, PhD  
+
+Postdoctoral Associate  
+
+Department of Chemistry
+
+Boston University 
+
+Email: jshi2@bu.edu / shijiale1995@gmail.com
+
+GithubID: [shijiale0609](https://github.com/shijiale0609)  
