@@ -1,0 +1,9 @@
+numpy
+pandas
+networkx
+scipy
+torch
+pygmtools
+rdkit-pypi
+POT
+biopython

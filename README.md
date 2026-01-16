@@ -96,14 +96,16 @@ python spectral_wasserstein_pair.py \
 - numpy
 - pandas
 - networkx
+- scipy
 - torch
 - pygmtools
 - rdkit
 - POT (Python Optimal Transport)
+- biopython
 
 Install dependencies:
 ```bash
-pip install numpy pandas networkx torch pygmtools rdkit-pypi POT
+pip install numpy pandas networkx scipy torch pygmtools rdkit-pypi POT biopython
 ```
 
 ## Data
