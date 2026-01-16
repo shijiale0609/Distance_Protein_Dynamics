@@ -1,7 +1,7 @@
 # Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations
-## Workflow (Alignment -> SPM -> Graph -> Distances)
+## Workflow (Alignment -> SPM Graph -> Distances)
 
-This file describes the typical workflow for aligning structures, generating SPM artifacts, converting them to graph files, and computing distances between cases.
+This file describes the typical workflow for aligning structures, generating SPM graph files, and computing distances between cases.
 
 ## 1) Align the target structure to a reference
 
