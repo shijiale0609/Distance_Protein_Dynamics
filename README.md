@@ -25,8 +25,8 @@ Notes:
 ```bash
 python spm.py \
   -p output/target_aligned.pdb \
-  -d path/to/dist_mat.npy \
-  -c path/to/corr_mat.npy \
+  -d path/to/dist_mat.dat \
+  -c path/to/corr_mat.dat \
   -t 6.0 \
   -s 0.0 \
   -o output/spm_case1 \
