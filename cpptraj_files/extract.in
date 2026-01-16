@@ -1,0 +1,5 @@
+# write just the first model (cluster 0 rep) to its own PDB
+parm topol_protein.top          # or any matching topology
+trajin all_reps.pdb
+trajout most_popular.pdb pdb onlyframes 1
+run

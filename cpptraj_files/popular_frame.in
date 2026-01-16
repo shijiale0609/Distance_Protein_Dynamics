@@ -1,0 +1,24 @@
+parm topol_protein.top
+# --- INPUTS (edit these) ---
+for i=201;i<=300;i++
+  trajin step5_$i_center.xtc 1 last 10
+done
+# --- PBC / alignment ---
+autoimage                      # uses box from XTC; keeps protein whole
+rms first :*&!@H=              # align to first frame on heavy atoms (or use @N,CA,C,O)
+
+# --- CLUSTER to find the most-populated state ---
+# Hierarchical clustering on RMSD; 'sieve' speeds up long runs; 'bestrep cumulative' = medoid
+cluster C0 \
+  hieragglo averagelinkage epsilon 2.0 \
+  rms :*&!@H= \
+  sieve 10 random \
+  bestrep cumulative \
+  summary cluster_summary.dat \
+  cpopvtime cluster_pop_vs_time.dat \
+  out cluster_vs_frame.dat \
+  repout reps repfmt pdb repframe \
+  singlerepout all_reps.pdb
+
+run
+
