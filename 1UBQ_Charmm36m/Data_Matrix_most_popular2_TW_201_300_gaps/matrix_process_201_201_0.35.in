@@ -1,0 +1,7 @@
+parm topol_protein.top
+reference most_popular_201_300.pdb
+trajin step5_201_center.xtc 1 1750 1
+rms reference @CA
+matrix dist   @CA out dist_mat_201_201_0.35.dat
+matrix correl @CA out corr_mat_201_201_0.35.dat
+run

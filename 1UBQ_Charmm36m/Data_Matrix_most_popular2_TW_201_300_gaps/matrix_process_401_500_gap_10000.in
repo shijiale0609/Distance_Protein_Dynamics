@@ -1,0 +1,9 @@
+parm topol_protein.top
+reference most_popular_401_500.pdb
+for i=401;i<=500;i+=2
+  trajin step5_$i_center.xtc 1 5000 5000
+done
+rms reference @CA
+matrix dist   @CA out dist_mat_401_500_gap_10000.dat
+matrix correl @CA out corr_mat_401_500_gap_10000.dat
+run

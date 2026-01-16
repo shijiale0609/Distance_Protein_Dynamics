@@ -1,0 +1,9 @@
+parm topol_protein.top
+reference most_popular_201_300.pdb
+for i=201;i<=206;i++
+  trajin step5_$i_center.xtc 1 5000 1
+done
+rms reference @CA
+matrix dist   @CA out dist_mat_201_206.dat
+matrix correl @CA out corr_mat_201_206.dat
+run
