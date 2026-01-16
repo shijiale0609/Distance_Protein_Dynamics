@@ -138,7 +138,7 @@ UBQ_L15S_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_
 
 1UBQ_V70N_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data11
 
-### Data Storage on Mendeley Data
+### Data Storage on Mendeley Data (waiting for approval)
 
 Shi, Jiale (2026), “Data1 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/c6tyt3srsg.1
 
