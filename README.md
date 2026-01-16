@@ -83,7 +83,7 @@ python spectral_wasserstein_pair.py \
 
 ## End-to-end checklist
 
-1. Align target PDBs to a reference PDB.
+1. Align target PDBs to a reference PDB (`protein_align_args.py`).
 2. Generate SPM outputs from distance/correlation matrices (`spm.py`).
 3. Convert SPM PML + topology PDB into graph CSV/GPickle (`SP_protein_dynamic_graph_postprocess_ori.py`).
 4. Compute distances between cases (`protein_dynamics_network_distance_calculation_v5_linear.py`).
