@@ -109,6 +109,8 @@ pip install numpy pandas networkx scipy torch pygmtools rdkit-pypi POT biopython
 ```
 
 ## Data
+The input files and forcefields to run gromacs molecular dynamics simulations are available at [gromacs_inputfiles](./gromacs_inputfiles)
+
 Examples of molecular dynamics simulation trajectory data are stored at [1UBQ_WT_Charmm36m_trajectory_1](./1UBQ_WT_Charmm36m_trajectory_1). amber-cpptraj is required to process the trajectory xtc files to get the dist.dat and corr.dat for the SPM graph generations. The exact commands of cpptraj are stored in [cpptraj_files](./cpptraj_files/).
 
 The whole raw molecular dynamics simulation trajectory data are stored in Github Repositories and Mendeley Data
