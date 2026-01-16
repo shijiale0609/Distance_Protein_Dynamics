@@ -106,3 +106,15 @@ Install dependencies:
 pip install numpy pandas networkx torch pygmtools rdkit-pypi POT
 ```
 
+## Data
+
+the raw molecular dynamics simulation trajectory data are stored in Mendeley Data
+
+
+1UBQ_WT_Charmm36m_trajectory_1.tar is used for the following sections: Different trajectory frame interval (timestep), Different significance threshold, and Different distance threshold.
+
+1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_WT_Charmm36m_trajectory_2.tar, and 1UBQ_WT_Charmm36m_trajectory_3.tar are used for the Independent replicate simulations section.
+
+1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_WT_Charmm36_trajectory.tar, and 1UBQ_WT_Amber_trajectory.tar are used for the Different force fields section.
+
+1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
