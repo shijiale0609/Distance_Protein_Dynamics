@@ -144,7 +144,7 @@ Shi, Jiale (2026), “Data2 for Measuring Differences in Protein Allosteric Grap
 
 Shi, Jiale (2026), “Data3 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/fwh5kr2n92.1
 
-
+### Data Details Description
 1UBQ_WT_Charmm36m_trajectory_1.tar is used for the following sections: Different trajectory frame interval (timestep), Different significance threshold, and Different distance threshold.
 
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_WT_Charmm36m_trajectory_2.tar, and 1UBQ_WT_Charmm36m_trajectory_3.tar are used for the Independent replicate simulations section.
