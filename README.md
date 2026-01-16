@@ -109,8 +109,9 @@ pip install numpy pandas networkx scipy torch pygmtools rdkit-pypi POT biopython
 ```
 
 ## Data
+Examples of molecular dynamics simulation trajectory data are stored at [1UBQ_WT_Charmm36m_trajectory_1](./1UBQ_WT_Charmm36m_trajectory_1). amber-cpptraj is required to process the trajectory xtc files to get the dist.dat and corr.dat for the SPM graph generations. The exact commands of cpptraj are stored in [cpptraj_files](./cpptraj_files/).
 
-the raw molecular dynamics simulation trajectory data are stored in Github Repositories and Mendeley Data
+The whole raw molecular dynamics simulation trajectory data are stored in Github Repositories and Mendeley Data
 
 ### Data storage on Github Repositories
 1UBQ_WT_Charmm36m_trajectory_1: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data1
@@ -152,7 +153,6 @@ Shi, Jiale (2026), “Data3 for Measuring Differences in Protein Allosteric Grap
 
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
 
-amber-cpptraj is required to process the trajectory xtc files to get the dist.dat and corr.dat for the SPM graph generations. The exact commands of cpptraj are stored in [cpptraj_files](./cpptraj_files/).
 
 
 ## Contact
