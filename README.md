@@ -110,7 +110,38 @@ pip install numpy pandas networkx scipy torch pygmtools rdkit-pypi POT biopython
 
 ## Data
 
-the raw molecular dynamics simulation trajectory data are stored in Mendeley Data
+the raw molecular dynamics simulation trajectory data are stored in Github Repositories and Mendeley Data
+
+### Data storage on Github Repositories
+1UBQ_WT_Charmm36m_trajectory_1: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data1
+
+1UBQ_WT_Charmm36m_trajectory_2: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data2
+
+1UBQ_WT_Charmm36m_trajectory_3: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data3
+
+1UBQ_WT_Charmm36_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data4
+
+1UBQ_WT_Amber_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data5
+
+1UBQ_I3A_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data6
+
+UBQ_L15S_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data7
+
+1UBQ_K33G_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data8
+
+1UBQ_P38Q_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data9
+
+1UBQ_E51D_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data10
+
+1UBQ_V70N_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data11
+
+### Data Storage on Mendeley Data
+
+Shi, Jiale (2026), “Data1 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/c6tyt3srsg.1
+
+Shi, Jiale (2026), “Data2 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/p2cvy8z9ms.1
+
+Shi, Jiale (2026), “Data3 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/fwh5kr2n92.1
 
 
 1UBQ_WT_Charmm36m_trajectory_1.tar is used for the following sections: Different trajectory frame interval (timestep), Different significance threshold, and Different distance threshold.
