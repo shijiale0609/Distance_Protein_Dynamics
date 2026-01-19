@@ -144,13 +144,16 @@ UBQ_L15S_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_
 
 1UBQ_V70N_Charmm36m_trajectory: https://github.com/shijiale0609/Distance_Protein_Dynamics_Data11
 
-### Data Storage on Mendeley Data (waiting for approval)
+### Data Storage on Mendeley Data
 
-Shi, Jiale (2026), “Data1 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/c6tyt3srsg.1
+Shi, Jiale (2026), “Data1 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/c6tyt3srsg.1 
+https://data.mendeley.com/datasets/c6tyt3srsg/1
 
 Shi, Jiale (2026), “Data2 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/p2cvy8z9ms.1
+https://data.mendeley.com/datasets/p2cvy8z9ms/1
 
 Shi, Jiale (2026), “Data3 for Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations”, Mendeley Data, V1, doi: 10.17632/fwh5kr2n92.1
+https://data.mendeley.com/datasets/fwh5kr2n92/1
 
 ### Data Details Description
 1UBQ_WT_Charmm36m_trajectory_1.tar is used for the following sections: Different trajectory frame interval (timestep), Different significance threshold, and Different distance threshold.
