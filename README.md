@@ -164,7 +164,21 @@ https://data.mendeley.com/datasets/fwh5kr2n92/1
 
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
 
+## Please cite our work and star this repo if it helps your research
+Our work is submitted for peer review. [Preprint on ChemRxiv](https://doi.org/10.26434/chemrxiv.10001634/v1).
 
+How to cite
+
+```
+@article{shi2026measuring,
+author = {Jiale Shi, Zhongyi Wan, Renjie Zhu, Qiang Cui},
+title = {Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations},
+journal = {ChemRxiv},
+doi={10.26434/chemrxiv.10001634},
+url={https://doi.org/10.26434/chemrxiv.10001634/v1},
+year = {2026},
+}
+```
 
 ## Contact
 
