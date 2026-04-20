@@ -1,0 +1,8 @@
+source_pdb: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/wt/Data_Matrix_most_popular6/most_popular_301_500.pdb
+source_dist: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/wt/Data_Matrix_most_popular6/dist_mat_301_500.dat
+source_corr: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/wt/Data_Matrix_most_popular6/corr_mat_301_500.dat
+segments: [207, 207]
+kept_segment: 1
+output_pdb: /tmp/ter_apo_symavg_singlechain_popular6_g102d_v2_inputs/wt/most_popular_301_500_symavg_singlechain_segment1.pdb
+output_dist: /tmp/ter_apo_symavg_singlechain_popular6_g102d_v2_inputs/wt/dist_mat_301_500_symavg_singlechain_segment1.dat
+output_corr: /tmp/ter_apo_symavg_singlechain_popular6_g102d_v2_inputs/wt/corr_mat_301_500_symavg_singlechain_segment1.dat

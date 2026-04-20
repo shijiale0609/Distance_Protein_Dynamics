@@ -1,0 +1,25 @@
+
+Top 3 source nodes by EMD contribution:
+  1. GLU364: 0.2361
+  2. HSD307: 0.1747
+  3. ALA343: 0.1619
+
+Top 3 target nodes by EMD contribution:
+  1. GLY345: 0.1971
+  2. ASN225: 0.1565
+  3. GLU314: 0.1387
+Node EMD: 3.2516329012646805
+
+Top 3 source edges by EMD contribution:
+  1. GLU364-ARG365: 0.1786
+  2. ALA361-GLU364: 0.1736
+  3. HSD307-LEU308: 0.1501
+
+Top 3 target edges by EMD contribution:
+  1. ASN225-ARG301: 0.1290
+  2. ALA361-GLU366: 0.1174
+  3. GLY345-HSD346: 0.1136
+Edge EMD: 3.0411122140587086
+Total Distance: 6.292745115323389
+
+Results saved to: /tmp/ter_apo_symavg_singlechain_segment2_distance_popular6_g102d_v2/g102d_v2_vs_e150k/distance.txt

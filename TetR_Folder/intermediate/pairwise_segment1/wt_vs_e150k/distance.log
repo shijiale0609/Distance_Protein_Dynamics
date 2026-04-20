@@ -1,0 +1,25 @@
+
+Top 3 source nodes by EMD contribution:
+  1. THR160: 0.6683
+  2. ARG158: 0.6597
+  3. VAL153: 0.5742
+
+Top 3 target nodes by EMD contribution:
+  1. THR103: 0.6287
+  2. ARG104: 0.6152
+  3. TYR132: 0.5038
+Node EMD: 9.766950522685619
+
+Top 3 source edges by EMD contribution:
+  1. GLN152-VAL153: 0.7076
+  2. ARG158-GLU159: 0.6807
+  3. GLU157-ARG158: 0.5893
+
+Top 3 target edges by EMD contribution:
+  1. THR103-ARG104: 0.6139
+  2. LEU117-LEU120: 0.6026
+  3. ARG104-PRO105: 0.4745
+Edge EMD: 9.397469693913546
+Total Distance: 19.164420216599165
+
+Results saved to: /tmp/ter_apo_symavg_singlechain_distance_popular6_g102d_v2/wt_vs_e150k/distance.txt
