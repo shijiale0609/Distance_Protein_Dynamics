@@ -5,6 +5,8 @@ This directory replaces the earlier TetR result package. The corrected analysis 
 TetR dimer and treats both 207-residue chains as one graph throughout alignment, SPM graph
 construction, and pairwise distance calculation.
 
+![TetR autoimage correction workflow](assets/tetr_autoimage_correction_workflow.png)
+
 ## Why the calculation was corrected
 
 The original workflow followed the single-chain SPM setup, which did not use the Amber
