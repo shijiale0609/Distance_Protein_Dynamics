@@ -165,18 +165,21 @@ https://data.mendeley.com/datasets/fwh5kr2n92/1
 1UBQ_WT_Charmm36m_trajectory_1.tar, 1UBQ_I3A_Charmm36m_trajectory.tar, 1UBQ_L15S_Charmm36m_trajectory.tar, 1UBQ_K33G_Charmm36m_trajectory.tar, 1UBQ_P38Q_Charmm36m_trajectory.tar, 1UBQ_E51D_Charmm36m_trajectory.tar, and 1UBQ_V70N_Charmm36m_trajectory.tar are used for the Different mutations section.
 
 ## Please cite our work and star this repo if it helps your research
-Our work is submitted for peer review. [Preprint on ChemRxiv](https://doi.org/10.26434/chemrxiv.10001634/v1).
+Our work has been published in the *Journal of Chemical Theory and Computation*. [Read the published article](https://doi.org/10.1021/acs.jctc.6c00082).
 
 How to cite
 
 ```
 @article{shi2026measuring,
-author = {Jiale Shi, Zhongyi Wan, Renjie Zhu, Qiang Cui},
-title = {Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations},
-journal = {ChemRxiv},
-doi={10.26434/chemrxiv.10001634},
-url={https://doi.org/10.26434/chemrxiv.10001634/v1},
-year = {2026},
+  author = {Shi, Jiale and Wan, Zhongyi and Zhu, Renjie and Cui, Qiang},
+  title = {Measuring Differences in Protein Allosteric Graphs Constructed via Molecular Dynamics Simulations},
+  journal = {Journal of Chemical Theory and Computation},
+  year = {2026},
+  volume = {22},
+  number = {12},
+  pages = {6180--6195},
+  doi = {10.1021/acs.jctc.6c00082},
+  url = {https://doi.org/10.1021/acs.jctc.6c00082}
 }
 ```
 
