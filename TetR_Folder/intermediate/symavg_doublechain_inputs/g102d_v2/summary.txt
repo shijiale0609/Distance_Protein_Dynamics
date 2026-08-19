@@ -1,8 +1,0 @@
-source_pdb: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/g102d_v2/Data_Matrix_most_popular6/most_popular_301_500.pdb
-source_dist: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/g102d_v2/Data_Matrix_most_popular6/dist_mat_301_500.dat
-source_corr: /Users/jialeshi/Projects/ProteinDynamics/TeR_apo/g102d_v2/Data_Matrix_most_popular6/corr_mat_301_500.dat
-segments: [207, 207]
-symmetrization: AA/BB averaged, AB/BA averaged
-output_pdb: /tmp/ter_apo_symavg_doublechain_popular6_g102d_v2_inputs/g102d_v2/most_popular_301_500_symavg_doublechain.pdb
-output_dist: /tmp/ter_apo_symavg_doublechain_popular6_g102d_v2_inputs/g102d_v2/dist_mat_301_500_symavg_doublechain.dat
-output_corr: /tmp/ter_apo_symavg_doublechain_popular6_g102d_v2_inputs/g102d_v2/corr_mat_301_500_symavg_doublechain.dat

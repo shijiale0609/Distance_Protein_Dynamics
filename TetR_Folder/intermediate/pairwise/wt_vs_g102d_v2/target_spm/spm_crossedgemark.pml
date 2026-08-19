@@ -1,0 +1,5 @@
+show sticks, PATH_target_aligned_crosschain
+show spheres, PATH_target_aligned_crosschain
+color magenta, PATH_target_aligned_crosschain
+center PATH_target_aligned_crosschain
+zoom PATH_target_aligned_crosschain

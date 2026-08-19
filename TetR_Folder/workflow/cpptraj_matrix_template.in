@@ -1,0 +1,12 @@
+parm topol_protein.top
+reference most_popular_301_500.pdb
+
+for i=301;i<=500;i++
+  trajin step5_$i_center.xtc 1 5000 1
+done
+
+autoimage
+rms reference @CA out rmsd_to_popular_301_500.dat
+matrix dist @CA out dist_mat_301_500_v2.dat
+matrix correl @CA out corr_mat_301_500_v2.dat
+run

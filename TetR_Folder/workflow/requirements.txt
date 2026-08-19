@@ -1,0 +1,11 @@
+biopython
+matplotlib
+networkx
+numpy
+pandas
+POT
+pygmtools
+rdkit
+scipy
+seaborn
+torch
